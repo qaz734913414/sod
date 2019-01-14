@@ -16,6 +16,8 @@
 * [Useful Links](#other-useful-links).
 
 ## SOD Embedded
+[Release 1.1.8](https://pixlab.io/downloads)
+
 SOD is an embedded, modern cross-platform computer vision and machine learning software library that expose a set of APIs for deep-learning, advanced media analysis & processing including real-time, multi-class object detection and model training on embedded systems with limited computational resource and IoT devices.
 
 SOD was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in open source as well commercial products.
